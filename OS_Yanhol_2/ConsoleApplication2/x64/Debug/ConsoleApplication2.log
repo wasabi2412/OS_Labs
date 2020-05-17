@@ -1,0 +1,8 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Wasabi\Documents\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(62,17): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\Wasabi\Documents\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(77,17): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\Wasabi\Documents\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(112,16): warning C4477: 'printf' : format string '%08lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+C:\Users\Wasabi\Documents\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(112,16): message : consider using '%llx' in the format string
+C:\Users\Wasabi\Documents\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(112,16): message : consider using '%Ix' in the format string
+C:\Users\Wasabi\Documents\OS-lr2_-master\ConsoleApplication2\ConsoleApplication2.cpp(112,16): message : consider using '%I64x' in the format string
+  ConsoleApplication2.vcxproj -> C:\Users\Wasabi\Documents\OS-lr2_-master\x64\Debug\ConsoleApplication2.exe
